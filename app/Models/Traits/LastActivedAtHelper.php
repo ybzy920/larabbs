@@ -91,4 +91,5 @@ trait LastActivedAtHelper
     {
         // 字段名称，如：user_1
         return $this->field_prefix . $this->id;
-  
+    }
+}
